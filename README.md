@@ -22,32 +22,64 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 About Me
 
-```python
-class VijinAjaiV:
-    def __init__(self):
-        self.name       = "Vijin Ajai V"
-        self.username   = "vijin670"
-        self.location   = "Tamil Nadu, India 🇮🇳"
-        self.email      = "vijin670@gmail.com"
-        self.roles      = [
-            "AI Developer 🤖",
-            "Machine Learning Engineer 🧠",
-            "Algorithm Designer ⚡",
-            "Cloud Developer ☁️",
-            "Data Science Enthusiast 📊",
-            "Software Engineer 💻",
-        ]
-        self.currently  = "Building intelligent systems & exploring deep learning"
-        self.fun_fact   = "I turn coffee ☕ into algorithms 🔢"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=39FF14&center=true&vCenter=true&width=700&lines=%E2%96%88+SYSTEM+BOOT+COMPLETE+%E2%96%88+USER%3A+vijin670+%E2%96%88+STATUS%3A+ONLINE+%E2%96%88+MISSION%3A+BUILD+AI+%E2%96%88" alt="System Online" />
 
-me = VijinAjaiV()
-me.say_hi()
+</div>
+
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:16px"/>
+
+### &nbsp; `> whoami`
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Vijin Ajai V** — a builder at the edge of intelligence and imagination.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I live in the space where **AI meets real-world problems** — turning raw data into
+&nbsp;&nbsp;&nbsp;&nbsp;decisions, satellite pixels into sharp images, and ideas into deployed systems.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Not just an engineer. A **problem hunter** 🎯
+
+<br/>
+
+### &nbsp; `> cat interests.txt`
+
+| &nbsp; | What I Do | Vibe |
+|---|---|---|
+| 🤖 | **Artificial Intelligence** | Teaching machines to think |
+| 🧠 | **Machine Learning** | Making data *speak* |
+| 🛰️ | **Computer Vision** | Eyes for machines |
+| ☁️ | **Cloud Development** | Scale everything |
+| ⚡ | **Algorithm Design** | Elegant & fast |
+| 📷 | **Photography** | Capturing light → `@vcaptures.lr` |
+
+<br clear="right"/>
+
+<div align="center">
+
 ```
+ ┌─────────────────────────────────────────────────────────────────┐
+ │  🌍 Location  →  Tamil Nadu, India                              │
+ │  ☕ Formula   →  Coffee  +  Data  +  Late Nights  =  Magic      │
+ │  🎯 Goal      →  Build AI that actually changes the world       │
+ │  🌱 Learning  →  Always. Every day. No exceptions.              │
+ └─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+![AI](https://img.shields.io/badge/⚡_FAST-Algorithms-FFD700?style=flat-square&labelColor=1a1a2e)
+![ML](https://img.shields.io/badge/🧠_DEEP-Neural_Nets-FF6B9D?style=flat-square&labelColor=1a1a2e)
+![Cloud](https://img.shields.io/badge/☁️_SCALE-Cloud_Infra-00D4FF?style=flat-square&labelColor=1a1a2e)
+![Vision](https://img.shields.io/badge/👁️_SEE-Computer_Vision-39FF14?style=flat-square&labelColor=1a1a2e)
+![Data](https://img.shields.io/badge/📊_ANALYZE-Data_Science-7928CA?style=flat-square&labelColor=1a1a2e)
+
+> *"I don't just write code — I engineer intelligence."* 🚀
+
+</div>
 
 ---
 
@@ -116,7 +148,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijin670&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+### 🕹️ Pac-Man eats my contributions!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -155,6 +193,10 @@ me.say_hi()
 
 <br/>
 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer" />
+
+</div>
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer" />
 
