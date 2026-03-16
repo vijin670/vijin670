@@ -129,16 +129,6 @@
 
 ---
 
-# 🌌 Matrix Developer Animation
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="700"/>
-
-</div>
-
----
-
 # 📈 3D Contribution Graph
 
 <div align="center">
