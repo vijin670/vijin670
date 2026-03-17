@@ -1,163 +1,116 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=230&section=header&text=VIJIN%20AJAI%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Cloud%20Builder&descAlignY=58&descSize=20&animation=fadeIn"/>
+```
+╔══════════════════════════════════════════╗
+║   VIJIN AJAI V                          ║
+║   AI Engineer · ML Developer · Builder  ║
+╚══════════════════════════════════════════╝
+```
 
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&pause=1200&color=00FFB2&center=true&vCenter=true&width=600&lines=Building+intelligence%2C+one+model+at+a+time.;Cloud+infrastructure+%2B+AI+%3D+real+impact.;Tamil+Nadu+%E2%86%92+Everywhere.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 👨‍💻 Hello World! I'm Vijin Ajai
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=vijin670&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github"/>
+
+### `> whoami`
+
+```yaml
+name       : Vijin Ajai V
+role       : AI/ML Engineer
+location   : Tamil Nadu, India
+focus      : Real-world AI systems
+lens       : @vcaptures.lr
+mission    : Build AI that actually matters
+```
+
+<br clear="right"/>
+
+---
+
+### `> stack --list`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Developer+%F0%9F%A7%A0;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%E2%9A%A1;Building+the+Future+with+Code+%F0%9F%9A%80"/>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**AI · ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+
+**Cloud · Infra**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 
 </div>
 
 ---
 
-# 🚀 About Me
+### `> projects --featured`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-- 🎯 AI & Machine Learning Engineer  
-- 🧠 Love solving **complex algorithmic problems**  
-- ☁️ Cloud Developer & System Builder  
-- 📷 Photographer → `@vcaptures.lr`  
-- 🌍 Tamil Nadu, India  
-- 🚀 Mission → **Build AI that impacts the real world**
+```
+┌─────────────────────────────────────────────────────────┐
+│  🛰  Satellite Super Resolution                          │
+│      AI model for enhancing low-res satellite imagery   │
+│                                                         │
+│  🤖  Codsoft ML Internship                              │
+│      End-to-end machine learning project suite          │
+│                                                         │
+│  🗂  INTERNIZER                                         │
+│      Full-stack internship management platform          │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🌐 Connect With Me
+### `> metrics`
 
 <div align="center">
 
-<a href="mailto:vijin670@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijin670&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFB2&ring=00FFB2&fire=00d4ff&currStreakLabel=00FFB2"/>
 
-<a href="https://linkedin.com/in/vijin-ajai-4b82442a1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vijin670">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/vcaptures.lr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://pin.it/vMJ0eZjrk">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijin670&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB2"/>
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
-
-## Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-## Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-# 📊 GitHub Stats
+### `> connect`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijin670&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijin670&layout=compact&theme=tokyonight&hide_border=true"/>
+[![Gmail](https://img.shields.io/badge/vijin670%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:vijin670@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/vijin--ajai-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vijin-ajai-4b82442a1)&nbsp;
+[![GitHub](https://img.shields.io/badge/vijin670-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/vijin670)&nbsp;
+[![Instagram](https://img.shields.io/badge/vcaptures.lr-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/vcaptures.lr)
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijin670&theme=tokyonight&hide_border=true"/>
+```
+The best way to predict the future is to create it.
+```
 
-</div>
-
----
-
-# 🕹️ Pac-Man Eating My Contributions
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake.svg"/>
-<img src="https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vijin670&theme=algolia&no-frame=true&margin-w=6"/>
-
-</div>
-
----
-
-# 📈 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijin670&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|------|-------------|
-| Satellite Super Resolution | AI model enhancing satellite images |
-| Codsoft ML Internship | Machine learning projects |
-| INTERNIZER | Internship management system |
-
----
-
-# 💡 Quote
-
-> “The best way to predict the future is to create it.”
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer"/>
+![Contribution Snake](https://raw.githubusercontent.com/vijin670/vijin670/output/github-contribution-grid-snake-dark.svg)
 
 </div>
